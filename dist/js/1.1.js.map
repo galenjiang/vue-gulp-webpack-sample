@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///C:/github/webpack-gulp/src/js/core/a.js"],"names":[],"mappings":";;;;;;;AAAA,QAAO,CAAC,CAAC,GAAG,YAAU;AACpB,UAAO,CAAC,GAAG,CAAC,GAAG,CAAC;EACjB,C","file":"1.1.js","sourcesContent":["exports.a = function(){\r\n  console.log(\"a\")\r\n}\r\n\n\n\n/** WEBPACK FOOTER **\n ** C:/github/webpack-gulp/src/js/core/a.js\n **/"],"sourceRoot":""}
